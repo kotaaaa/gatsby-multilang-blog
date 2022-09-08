@@ -2,7 +2,6 @@ import React from 'react'
 import useTranslations from '../useTranslations'
 import Navigation from '../Navigation'
 import Languages from '../Languages'
-// import ButtonMenu from '../ButtonMenu'
 import Logo from '../Logo'
 
 import { useMenu } from '../../hooks/menu'
@@ -23,13 +22,6 @@ const Header = () => {
                 <S.NavLanguages>
                     <Languages />
                 </S.NavLanguages>
-
-                {/* <S.ButtonMenu className={openedMenu ? 'is-active' : ''}>
-                    <ButtonMenu
-                        handleClick={toggleMenu}
-                        isActive={openedMenu}
-                    />
-                </S.ButtonMenu> */}
 
                 <S.NavMenu className={openedMenu ? 'is-active' : ''}>
                     <Navigation />

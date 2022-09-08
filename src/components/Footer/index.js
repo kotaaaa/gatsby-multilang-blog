@@ -17,16 +17,6 @@ const Footer = () => {
             <S.FooterContainer>
                 <SocialLinks />
                 <p>
-                    {aboutProject}{' '}
-                    <a
-                        href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"
-                        target="_blank"
-                    >
-                        {seeMorePWA}
-                    </a>
-                    .
-                </p>
-                <p>
                     {maintainedBy}{' '}
                     <a href="https://twitter.com/kotaaaa1110" target="_blank">
                         @kotaaaa1110

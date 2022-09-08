@@ -19,7 +19,6 @@ exports.onCreatePage = ({ page, actions }) => {
         const localizedPath = locales[lang].default
             ? page.path
             : `${locales[lang].path}${page.path}`
-
         return createPage({
             // Pass on everything from the original page
             ...page,
@@ -137,7 +136,7 @@ exports.createPages = async ({ graphql, actions }) => {
         const template = isPage ? pageTemplate : postTemplate
 
         // Count posts
-        postsTotal = isPage ? postsTotal + 0 : postsTotal + 1
+        postsTotal = isPage ? postsTotal + 0 : postsTotal + 2
 
         createPage({
             path: localizedSlug({ isDefault, locale, slug, isPage }),
@@ -153,7 +152,7 @@ exports.createPages = async ({ graphql, actions }) => {
     })
 
     // Creating Posts List and its Pagination
-    const postsPerPage = 4
+    const postsPerPage = 8
     const langs = Object.keys(locales).length
     const numPages = Math.ceil(postsTotal / langs / postsPerPage)
 

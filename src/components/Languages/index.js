@@ -39,12 +39,13 @@ const Languages = () => {
 
             return hasUrl
         })
-        // console.log('associatedUrls', associatedUrls)
+        console.log('associatedUrls', associatedUrls)
         if (!associatedUrls) return navigate('/')
 
+        const singleSlashSlug = associatedUrls[lang].replace(/\/\//g, '/')
         return lang === 'en'
-            ? navigate(`/${associatedUrls[lang]}`)
-            : navigate(`/${lang}/${associatedUrls[lang]}`)
+            ? navigate(singleSlashSlug)
+            : navigate(`/${lang}${singleSlashSlug}`)
     }
 
     return (

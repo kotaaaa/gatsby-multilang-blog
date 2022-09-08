@@ -1,10 +1,6 @@
 {
   "languageMapping": [
     {
-      "en": "/about",
-      "jp": "/about"
-    },
-    {
       "en": "/blog",
       "jp": "/blog"
     },
