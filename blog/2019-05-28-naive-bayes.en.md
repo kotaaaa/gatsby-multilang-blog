@@ -1,9 +1,9 @@
 ---
 title: 'What I learned about Naive Bayes'
 date: '2019-05-28 17:40:32'
-description: Naive Bayes, Algorizm
-category: Algorizm
-background: '#353b48'
+description: Naive Bayes, Algorizm, Python, Machine Learning aaaaaa
+category: Python
+background: '#4169e1'
 ---
 
 <!-- ### Outline -->

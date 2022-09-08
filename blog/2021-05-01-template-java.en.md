@@ -1,9 +1,9 @@
 ---
 title: Template Method pattern introduction with Java
 date: '2021-05-01T18:46:37.121Z'
-description: Java, Template method
+description: Java, Template method, Design Pattern
 category: Java
-background: '#353b48'
+background: '#4169e1'
 ---
 
 This article's code is basically from [here](https://books.rakuten.co.jp/rb/1683430/?l-id=search-c-item-text-01).

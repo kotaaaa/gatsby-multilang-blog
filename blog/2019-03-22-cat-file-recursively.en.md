@@ -1,10 +1,9 @@
 ---
-title: Cat file recursively
+title: Cat file recursively Linux memo shell
 date: '2019-03-22 18:46:37'
 description: Linux, xargs
-category: Markdown
-background: '#353b48'
-# image: '/assets/img/03.jpg'
+category: Linux
+background: '#696969'
 ---
 
 ```shell
