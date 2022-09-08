@@ -11,9 +11,9 @@ I will show Template Method pattern, which is one of the design patterns.
 
 <!-- <img width="700" alt="sample.png" src="./assets/img/sample.png"> -->
 
-![sample](/assets/img/sample.png)
-![sample2](/assets/img/sample2.png)
-![template](/assets/img/template.png)
+![sample](/assets/img/template-java/sample.png)
+![sample2](/assets/img/template-java/sample2.png)
+![template](/assets/img/template-java/template.png)
 
 #### Abstract Class
 
