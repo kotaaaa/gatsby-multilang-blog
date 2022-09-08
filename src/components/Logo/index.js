@@ -1,6 +1,5 @@
 import React from 'react'
-// import logo from '../../images/logo-iceberg.svg';
-import logo from '../../images/twitter.svg'
+import logo from '../../images/resume-svgrepo-com.svg'
 
 const Logo = () => {
     return <img src={logo} alt="Iceberg Logo" />
