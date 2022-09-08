@@ -1,4 +1,4 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/diogorodrigues/iceberg-gatsby-multilang) 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/diogorodrigues/iceberg-gatsby-multilang)
 
 <img src="./src/images/logo-iceberg.svg" width="150">
 
@@ -26,11 +26,13 @@ A starter Internationalization / i18n without third party plugins or packages fo
 Assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed, run the following commands to install the project:
 
 **With gatsby-cli**:
+
 ```
 $ gatsby new gatsby-multilanguage-site https://github.com/diogorodrigues/iceberg-gatsby-multilang.git
 ```
 
 **With git clone**:
+
 ```
 $ git clone https://github.com/diogorodrigues/iceberg-gatsby-multilang.git your-project-name # Clone the project
 
@@ -40,7 +42,6 @@ rm -rf .git
 yarn install # or npm install
 gatsby develop # or yarn run develop
 ```
-
 
 Running `gatsby develop` you will see the following URLs:
 
@@ -57,19 +58,19 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 ```
 ├── blog
 │   ├── markdown-file.en.md
-│   ├── markdown-file.pt.md
+│   ├── markdown-file.jp.md
 ├── config
 │   ├── language-mapping
 │   ├── menu
 │   │   ├── en.json
-│   │   ├── pt.json
+│   │   ├── jp.json
 │   ├── translations
 │   │   ├── en.json
-│   │   ├── pt.json
+│   │   ├── jp.json
 │   ├── i18n.js
 ├── pages
 │   ├── markdown-file.en.md
-│   ├── markdown-file.pt.md
+│   ├── markdown-file.jp.md
 ├── src
 ├── static
 │   ├── admin

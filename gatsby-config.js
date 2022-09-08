@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         title: `Gatsby multiple language starter`,
         description: `A simple but feature rich starter boilerplate for creating a multi-language Gatsby website (Internationalization / i18n) without third party plugins or packages and also focused on SEO. This starter also contains other main Gatsby configurations you might need.`,
-        author: `@diogorodrigues`,
+        author: `@kotaaaa1110`,
         siteUrl: `https://iceberg-gatsby-multilang.netlify.com/`,
     },
     plugins: [
@@ -78,6 +78,14 @@ module.exports = {
                             linkImagesToOriginal: false,
                         },
                     },
+                    // {
+                    //     resolve: `gatsby-remark-katex`,
+                    //     options: {
+                    //         // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
+                    //         strict: `ignore`,
+                    //     },
+                    // },
+                    // `gatsby-remark-katex`,
                     `gatsby-remark-lazy-load`,
                     `gatsby-remark-prismjs`, // It needs to be the last one
                 ],

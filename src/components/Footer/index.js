@@ -28,17 +28,11 @@ const Footer = () => {
                 </p>
                 <p>
                     {maintainedBy}{' '}
-                    <a
-                        href="https://twitter.com/_diogorodrigues"
-                        target="_blank"
-                    >
-                        @_diogorodrigues
+                    <a href="https://twitter.com/kotaaaa1110" target="_blank">
+                        @kotaaaa1110
                     </a>
                     . {licenseDisplay}{' '}
-                    <a
-                        href="https://github.com/diogorodrigues/iceberg-gatsby-multilang"
-                        target="_blank"
-                    >
+                    <a href="https://github.com/kotaaaa" target="_blank">
                         Github
                     </a>
                     .
