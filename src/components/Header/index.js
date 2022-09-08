@@ -2,7 +2,7 @@ import React from 'react'
 import useTranslations from '../useTranslations'
 import Navigation from '../Navigation'
 import Languages from '../Languages'
-import ButtonMenu from '../ButtonMenu'
+// import ButtonMenu from '../ButtonMenu'
 import Logo from '../Logo'
 
 import { useMenu } from '../../hooks/menu'
@@ -24,12 +24,12 @@ const Header = () => {
                     <Languages />
                 </S.NavLanguages>
 
-                <S.ButtonMenu className={openedMenu ? 'is-active' : ''}>
+                {/* <S.ButtonMenu className={openedMenu ? 'is-active' : ''}>
                     <ButtonMenu
                         handleClick={toggleMenu}
                         isActive={openedMenu}
                     />
-                </S.ButtonMenu>
+                </S.ButtonMenu> */}
 
                 <S.NavMenu className={openedMenu ? 'is-active' : ''}>
                     <Navigation />
