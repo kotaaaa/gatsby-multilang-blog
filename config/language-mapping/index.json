@@ -9,6 +9,10 @@
       "jp": "/contact"
     },
     {
+      "en": "/blog/contact",
+      "jp": "/blog/contact"
+    },
+    {
       "en": "/blog/cat-file-recursively",
       "jp": "/blog/cat-file-recursively"
     },
