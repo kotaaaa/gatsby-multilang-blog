@@ -5,12 +5,7 @@ import SocialLinks from '../SocialLinks'
 import * as S from './styled'
 
 const Footer = () => {
-    const {
-        aboutProject,
-        seeMorePWA,
-        maintainedBy,
-        licenseDisplay,
-    } = useTranslations()
+    const { maintainedBy, licenseDisplay } = useTranslations()
 
     return (
         <S.FooterWrapper>
