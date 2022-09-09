@@ -10,7 +10,7 @@ const SocialLinks = () => {
         <S.SocialLinksList>
             <S.SocialLinksItem>
                 <S.SocialLinksLink
-                    href="https://github.com/kotaaaa/"
+                    href="https://github.com/kotaaaa/gatsby-multilang-blog"
                     title="Github"
                     target="_blank"
                 >

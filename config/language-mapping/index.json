@@ -5,60 +5,8 @@
       "jp": "/blog"
     },
     {
-      "en": "/contact",
-      "jp": "/contact"
-    },
-    {
-      "en": "/blog/contact",
-      "jp": "/blog/contact"
-    },
-    {
-      "en": "/blog/cat-file-recursively",
-      "jp": "/blog/cat-file-recursively"
-    },
-    {
-      "en": "/blog/kmeans",
-      "jp": "/blog/kmeans"
-    },
-    {
-      "en": "/blog/git-fork-origin",
-      "jp": "/blog/git-fork-origin"
-    },
-    {
-      "en": "/blog/kubectl-version",
-      "jp": "/blog/kubectl-version"
-    },
-    {
-      "en": "/blog/markdown-cheetsheet",
-      "jp": "/blog/markdown-cheetsheet"
-    },
-    {
-      "en": "/blog/vue-vs-angular",
-      "jp": "/blog/vue-vs-angular"
-    },
-    {
-      "en": "/blog/template-java",
-      "jp": "/blog/template-java"
-    },
-    {
       "en": "/blog/atcoder-green",
       "jp": "/blog/atcoder-green"
-    },
-    {
-      "en": "/blog/nginx-basic",
-      "jp": "/blog/nginx-basic"
-    },
-    {
-      "en": "/blog/linebot",
-      "jp": "/blog/linebot"
-    },
-    {
-      "en": "/blog/airflow-basic",
-      "jp": "/blog/airflow-basic"
-    },
-    {
-      "en": "/blog/api-to-bigquery",
-      "jp": "/blog/api-to-bigquery"
     }
   ]
 }
