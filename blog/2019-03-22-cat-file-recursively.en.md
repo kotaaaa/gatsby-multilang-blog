@@ -5,6 +5,7 @@ description: Linux, xargs
 category: Linux
 background: '#696969'
 image: '/assets/img/05.jpg'
+page: true
 ---
 
 ```shell
