@@ -28,8 +28,6 @@ background: '#9400d3'
 
 ![vue_state](/assets/img/vue-vs-angular/vue_state.png)
 
-<!-- <img width="700" alt="vue_sample.png" src="./vue_sample.png"> -->
-
 ![angular](/assets/img/vue-vs-angular/angular.png)
 
 |                              | Vue.js                                                                              | Angular                                                                                                                      |

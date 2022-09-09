@@ -9,9 +9,7 @@ background: '#4169e1'
 I finally got into the green at the ABC215 held the other day!
 It has been a long road, taking more than a year, so here is a summary of my study process so far and my current specifications.
 
-https://twitter.com/w2vw2vkk/status/1429082090184708096?s=20
-
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/d853989c-d900-192b-dc13-8f513bc1a8a0.png">
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/d853989c-d900-192b-dc13-8f513bc1a8a0.png)
 
 # Self Introduction
 
@@ -63,16 +61,16 @@ Solving past problems at #### [Atcoder Problems](https://kenkoooo.com/atcoder/#/
 
 ###### Amount of devotion on the day I entered green
 
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/5c1f8c4a-e2ff-b71d-7652-db699c502dbe.png">
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/f7b6280f-a1c0-a84c-792e-f77fc783df14.png">
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/032af8c0-e94c-427d-da41-6bbe458eb002.png">
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/bd24e387-618a-b46c-47bb-c319910261d6.png">
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/5c1f8c4a-e2ff-b71d-7652-db699c502dbe.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/f7b6280f-a1c0-a84c-792e-f77fc783df14.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/032af8c0-e94c-427d-da41-6bbe458eb002.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/bd24e387-618a-b46c-47bb-c319910261d6.png)
 
 ###### Reference:[Atcoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/)
 
 #### Atcoder Problems' [Training Features](https://kenkoooo.com/atcoder/#/training) [2020/03 ~ 2021/06]
 
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/f6878662-5ad4-9a4e-012f-2ef94fc1f4ae.png">
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/f6878662-5ad4-9a4e-012f-2ef94fc1f4ae.png)
 
 -   This is not a feature that has received much attention(?). Atcoder Problems has a training function. Personally, I have made great use of it.
 -   There are three levels, Easy, Medium, and Hard, each consisting of 100 problems in gray, brown, and green, respectively. The difficulty level is sorted by Difficulty, so you can see the gradual increase in difficulty. I think it was easy to get a sense of the level of users who can solve each problem, and at the same time, it was just right for me to find a problem that fits my level.
