@@ -1,12 +1,10 @@
 ---
 title: 'What I learned about Naive Bayes'
 date: '2019-05-28 17:40:32'
-description: Naive Bayes, Algorizm, Python, Machine Learning aaaaaa
+description: Naive Bayes, Algorizm, Python, Machine Learning
 category: Python
 background: '#4169e1'
 ---
-
-<!-- ### Outline -->
 
 Given a document $d$, this is a machine learning algorithm that determines which class $d$ is classified by using the frequency of words appearing in the document.
 By using this algorithm, we can

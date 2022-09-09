@@ -3,7 +3,7 @@ module.exports = {
         title: `Gatsby multiple language starter`,
         description: `A simple but feature rich starter boilerplate for creating a multi-language Gatsby website (Internationalization / i18n) without third party plugins or packages and also focused on SEO. This starter also contains other main Gatsby configurations you might need.`,
         author: `@kotaaaa1110`,
-        siteUrl: `https://iceberg-gatsby-multilang.netlify.com/`,
+        siteUrl: `https://gatsby-multilang.netlify.com/`,
     },
     plugins: [
         `gatsby-plugin-netlify-cms`,
@@ -84,30 +84,30 @@ module.exports = {
                 ],
             },
         },
-        {
-            resolve: `gatsby-plugin-prefetch-google-fonts`,
-            options: {
-                fonts: [
-                    {
-                        family: `Open Sans`,
-                        variants: [`400`, `600`],
-                    },
-                ],
-            },
-        },
+        // {
+        //     resolve: `gatsby-plugin-prefetch-google-fonts`,
+        //     options: {
+        //         fonts: [
+        //             {
+        //                 family: `Open Sans`,
+        //                 variants: [`400`, `600`],
+        //             },
+        //         ],
+        //     },
+        // },
 
         `gatsby-plugin-react-helmet`,
         `gatsby-plugin-sitemap`,
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Gatsby multiple language`,
-                short_name: `Gatsby multiple language`,
+                name: `Kota's Blog`,
+                short_name: `Kota's Blog`,
                 start_url: `/`,
                 background_color: `#16202c`,
                 theme_color: `#16202c`,
                 display: `minimal-ui`,
-                icon: `src/images/gatsby-icon.png`,
+                icon: `src/images/logo_k.png`,
             },
         },
         // this (optional) plugin enables Progressive Web App + Offline functionality
