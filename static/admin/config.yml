@@ -1,10 +1,9 @@
 backend:
     #name: github # Local
     name: git-gateway # Prod
-    repo: diogorodrigues/iceberg-gatsby-multilang
+    repo: kotaaaa/gatsby-multilang-blog
     branch: master
-    site_domain: https://iceberg-gatsby-multilang.netlify.com/
-    
+    site_domain: https://gatsby-multilang.netlify.com/
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
@@ -61,13 +60,13 @@ collections:
             }
           - { label: 'Body', name: 'body', widget: 'markdown' }
 
-    #Posts (Portuguese)
-    - name: 'posts-pt' # Used in routes, e.g., /admin/collections/blog
-      label: 'Posts (Portuguese)' # Used in the UI
+    #Posts (Japanese)
+    - name: 'posts-jp' # Used in routes, e.g., /admin/collections/blog
+      label: 'Posts (Japanese)' # Used in the UI
       folder: 'blog' # The path to the folder where the documents are stored
       create: true # Allow users to create new documents in this collection
       slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-      extension: 'pt.md'
+      extension: 'jp.md'
       format: frontmatter
       fields: # The fields for each document, usually in front matter
           - { label: 'Title', name: 'title', widget: 'string' }
@@ -129,13 +128,13 @@ collections:
           - { label: 'isPage', name: 'page', widget: 'hidden', default: true }
           - { label: 'Body', name: 'body', widget: 'markdown' }
 
-    #Pages (Portuguese)
-    - name: 'pages-pt' # Used in routes, e.g., /admin/collections/blog
-      label: 'Pages (Portuguese)' # Used in the UI
+    #Pages (Japanese)
+    - name: 'pages-jp' # Used in routes, e.g., /admin/collections/blog
+      label: 'Pages (Japanese)' # Used in the UI
       folder: 'pages' # The path to the folder where the documents are stored
       create: true # Allow users to create new documents in this collection
       slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-      extension: 'pt.md'
+      extension: 'jp.md'
       format: frontmatter
       fields: # The fields for each document, usually in front matter
           - { label: 'Title', name: 'title', widget: 'string' }

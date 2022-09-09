@@ -47,10 +47,6 @@ const query = graphql`
                         prev
                         of
 
-                        button
-
-                        aboutProject
-                        seeMorePWA
                         maintainedBy
                         licenseDisplay
                     }
