@@ -4,7 +4,7 @@ import TitlePage from '../components/TitlePage'
 import SEO from '../components/seo'
 
 import * as S from '../components/Content/styled'
-// import 'katex/dist/katex.min.css'
+import 'katex/dist/katex.min.css'
 
 const Post = props => {
     const post = props.data.markdownRemark

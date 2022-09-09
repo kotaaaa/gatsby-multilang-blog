@@ -78,14 +78,7 @@ module.exports = {
                             linkImagesToOriginal: false,
                         },
                     },
-                    // {
-                    //     resolve: `gatsby-remark-katex`,
-                    //     options: {
-                    //         // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
-                    //         strict: `ignore`,
-                    //     },
-                    // },
-                    // `gatsby-remark-katex`,
+                    `gatsby-remark-katex`,
                     `gatsby-remark-lazy-load`,
                     `gatsby-remark-prismjs`, // It needs to be the last one
                 ],
