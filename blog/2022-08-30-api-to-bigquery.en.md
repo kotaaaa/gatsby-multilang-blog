@@ -43,7 +43,7 @@ and add TMDB_KEY environment variable in `.env` file.
 
 # Architecture
 
-<img width="700" alt="diagram.svg" src="https://raw.githubusercontent.com/kotaaaa/api-to-bigquery-template/main/diagram.drawio.svg">
+![diagram.svg](https://raw.githubusercontent.com/kotaaaa/api-to-bigquery-template/main/diagram.drawio.svg)
 
 The process itself is written in Cloud Function. The API described in Cloud Function is invoked, and the response data is inserted into BigQuery via Publish to Pub/Sub topics.
 

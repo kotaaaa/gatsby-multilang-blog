@@ -62,10 +62,11 @@ https://twitter.com/w2vw2vkk/status/1429082090184708096?s=20
 
 ###### 入緑した日の精進量
 
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/5c1f8c4a-e2ff-b71d-7652-db699c502dbe.png">
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/f7b6280f-a1c0-a84c-792e-f77fc783df14.png">
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/032af8c0-e94c-427d-da41-6bbe458eb002.png">
-<img width="700" alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/bd24e387-618a-b46c-47bb-c319910261d6.png">
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/5c1f8c4a-e2ff-b71d-7652-db699c502dbe.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/f7b6280f-a1c0-a84c-792e-f77fc783df14.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/032af8c0-e94c-427d-da41-6bbe458eb002.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/239544/bd24e387-618a-b46c-47bb-c319910261d6.png)
+
 ###### 参考:[Atcoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/)
 
 #### Atcoder Problems の[Training 機能](https://kenkoooo.com/atcoder/#/training)　【2020/03 ~ 2021/06】

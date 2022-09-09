@@ -9,8 +9,6 @@ background: '#4169e1'
 This article's code is basically from [here](https://books.rakuten.co.jp/rb/1683430/?l-id=search-c-item-text-01).
 I will show Template Method pattern, which is one of the design patterns.
 
-<!-- <img width="700" alt="sample.png" src="./assets/img/sample.png"> -->
-
 ![sample](/assets/img/template-java/sample.png)
 ![sample2](/assets/img/template-java/sample2.png)
 ![template](/assets/img/template-java/template.png)
