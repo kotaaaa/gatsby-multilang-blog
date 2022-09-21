@@ -1,9 +1,9 @@
 module.exports = {
     siteMetadata: {
-        title: `Kota Kawaguchi's multiple language blog`,
-        description: `Kota Kawaguchi's multiple language blog`,
+        title: `Kota Kawaguchi's blog`,
+        description: `Kota Kawaguchi's blog`,
         author: `@kotaaaa1110`,
-        siteUrl: `https://gatsby-multilang.netlify.com/`,
+        siteUrl: `https://kk1110.netlify.app/`,
     },
     plugins: [
         `gatsby-plugin-netlify-cms`,
