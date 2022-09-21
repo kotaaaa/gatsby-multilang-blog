@@ -1,5 +1,5 @@
 ---
-title: RESTful
+title: RESTful design principle explanation
 date: '2021-05-01T18:46:37.121Z'
 description: RESTful
 category: Application
