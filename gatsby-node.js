@@ -136,7 +136,7 @@ exports.createPages = async ({ graphql, actions }) => {
         const template = isPage ? pageTemplate : postTemplate
 
         // Count posts
-        postsTotal = isPage ? postsTotal + 0 : postsTotal + 2
+        postsTotal = isPage ? postsTotal + 0 : postsTotal + 1
 
         createPage({
             path: localizedSlug({ isDefault, locale, slug, isPage }),

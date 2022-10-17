@@ -1,9 +1,9 @@
 ---
-title: NoSQL Categories
+title: Type of NoSQL Categories Summarization
 date: '2022-10-15 00:00:00'
 description: SQL, NoSQL
-category: Data
-background: '#4169e1'
+category: Data-Engineering
+background: '#ff00cc'
 ---
 
 # Overview
@@ -51,6 +51,8 @@ Unlike traditional relational databases, key-value database do not require prede
 Without having to rely on placeholders, key-value database are lighter solution as they require fewer resource.
 
 Such functionality are suitable for large databases that deal with simple data. Therefore, they are commonly used for caching, managing user session, ad servicing, and recommendations
+
+![key-value](https://raw.githubusercontent.com/kotaaaa/gatsby-multilang-blog/master/static/assets/img/nosql-categories/key-value.svg)
 
 ## Culumn-Family
 
