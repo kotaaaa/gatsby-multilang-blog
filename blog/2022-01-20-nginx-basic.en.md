@@ -8,7 +8,7 @@ background: '#008000'
 
 # What is Nginx?
 
-Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. Nginx is usually used as reverse proxy to serve web/api server.
+Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and generic TCP/UDP proxy server. Nginx is usually used as reverse proxy to serve web/api server.
 
 [Reference](https://nginx.org/en/)
 
