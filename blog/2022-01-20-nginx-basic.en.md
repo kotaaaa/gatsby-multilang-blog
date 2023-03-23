@@ -37,7 +37,7 @@ Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and g
 Two types of directive
 
 1. Variable type
-   Ex) proxy_pass, root, …
+   Ex) proxy_pass, root, … 
 
 2. Scope type
    Ex) http, server, events, upstream
