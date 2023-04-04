@@ -32,7 +32,7 @@ These database is suited for OLAP(Online Analytical Processing) use cases. They 
 
 But why do we need to store data in columns in opposed to rows.
 Imagine the above customer data table having billions of records and the business needs to run analytical query on the table. Say it needs to caluculate the mean age for every city.
-If the data is stored in rows on the disk, the query would have to traverse a large number of disk blocks.(accross machine, since data would be partitioned) to figure out the results, processing unnecessary data.
+If the data is stored in rows on the disk, the query would have to traverse a large number of disk blocks. (accross machine, since data would be partitioned) to figure out the results, processing unnecessary data.
 
 On the other hands, on saving columns on the disk, the query only process the city column, neglecting other customer data, providing high-throughput reads. It would not have to scan through all the records of customer data. Also, similar data in columns can be compressed by using techniques such as run-length encoding(RLE), requiring less storage space than row-based data.
 
