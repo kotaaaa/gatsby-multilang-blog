@@ -56,7 +56,7 @@ In this sample, I created gcs bucket called "collecting-tf-state". then I save t
 
 # Terraform setting files
 
-Replace {\$GCP_PROJECT_NAME} with the name of your GCP project.
+Replace \$GCP_PROJECT_NAME with the name of your GCP project.
 
 #### bigquery.tf
 
