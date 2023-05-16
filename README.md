@@ -9,6 +9,8 @@ hosted by Netlify
 ```
 $ cd your-project-name
 $ yarn install
+# avoid "error:0308010C:digital envelope routines::unsupported"
+$ export NODE_OPTIONS=--openssl-legacy-provider 
 $ gatsby develop
 ```
 
